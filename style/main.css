@@ -100,9 +100,11 @@ a{
     text-decoration: none;
     color: #48555B;
 }
-nav a :active {
-   color: #00A4E5
+
+li a:hover {
+    color: #00A4E5;
 }
+
 .navbar-line {
     background-color: #E6E6E6;
     height: 1px;
